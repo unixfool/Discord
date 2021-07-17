@@ -6,15 +6,15 @@
 
 </p>
 
--> Module for NPM: https://discord.js.org
--> Node JS.
--> Discord Account + Password.
-		|-> Discord Server + Channel.
-		|-> Create App: https://discord.com/developers/applications
-		|-> Discord: Build-A-Bot : Bring your app to life by adding a bot user. 
-			This action is irreversible (because robots are too cool to destroy).
-		|-> Check your bot token with discord.	
-		|-> Discord: OAuth2 URL Generator
+-> Module for NPM: https://discord.js.org<br/>
+-> Node JS.<br/>
+-> Discord Account + Password.<br/>
+		|-> Discord Server + Channel.<br/>
+		|-> Create App: https://discord.com/developers/applications<br/>
+		|-> Discord: Build-A-Bot : Bring your app to life by adding a bot user. <br/>
+			This action is irreversible (because robots are too cool to destroy).<br/>
+		|-> Check your bot token with discord.	<br/>
+		|-> Discord: OAuth2 URL Generator<br/>
 		
 		
 A Simple Discord bot with. [Remotes](https://remotes.irc.com)
